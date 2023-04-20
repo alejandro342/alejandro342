@@ -1,6 +1,6 @@
 ### Hola 👋 mi nombre es Alejandro
 
-<a href="https://codepen.io/carlossalvadordiaz/pen/PozMmdq" target="_blank"> <img src="https://drive.google.com/file/d/1Y3-M638zLJ0XwD_TQmJCthPg88x9OWkd/view?usp=sharing" width="100%" height="200"/></a>
+<a href="https://codepen.io/carlossalvadordiaz/pen/PozMmdq" target="_blank"> <img src="https://drive.google.com/file/d/1Y3-M638zLJ0XwD_TQmJCthPg88x9OWkd/view?usp=share_link" width="100%" height="200"/></a>
 
 <a href="https://www.linkedin.com/in/ing-alejandro342" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Alejandro Ambrosio" height="30" width="40" />linkedin</a>
 
