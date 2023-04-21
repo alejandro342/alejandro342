@@ -7,7 +7,7 @@
 
 <a href="https://www.linkedin.com/in/ing-alejandro342" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Alejandro Ambrosio" height="30" width="40" />linkedin</a>
 
-<p>________________________________________________________________________________________________________________________________________________________</p>
+<p>________________________________________________________________________________________________________________________________________________</p>
 
 #### Tengo conocimientos sobre:
 
@@ -23,7 +23,7 @@
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="65" height="65"/> MySQL </a>
 </p>
 
-<p>________________________________________________________________________________________________________________________________________________________</p>
+<p>________________________________________________________________________________________________________________________________________________</p>
 
 
 #### Algunos de mis proyectos:
