@@ -4,6 +4,17 @@
 
 <a href="https://www.linkedin.com/in/ing-alejandro342" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Alejandro Ambrosio" height="30" width="40" />linkedin</a>
 
+#### Tengo conocimientos sobre:
+
+
+##### Programming languages
+<p align="left"> <a href="https://kotlinlang.org/docs/home.html" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="javascript" width="50" height="50"/> Kotlin</a>
+  
+  <a href="https://nodejs.org/es/docs" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="javascript" width="80" height="80"/> Node.js</a>
+  
+   <a href="https://www.postgresql.org/docs/current/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="javascript" width="80" height="80"/> PosgresSQL</a>
+</p>
+
 #### Algunos de mis proyectos:
 ### Login MVP
 <a href="https://github.com/alejandro342/LoginMVP" target="_blank"> <img src="https://firebasestorage.googleapis.com/v0/b/dulceria-bf781.appspot.com/o/LoginMVP.jpg?alt=media&token=2214df61-5727-4ebb-88cd-d27479893a0c" width="250" height="300"/></a>
