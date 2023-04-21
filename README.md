@@ -1,7 +1,7 @@
 ### Hola 👋 mi nombre es Alejandro
 
 <a href="https://codepen.io/carlossalvadordiaz/pen/PozMmdq" target="_blank"> <img src="https://firebasestorage.googleapis.com/v0/b/dulceria-bf781.appspot.com/o/Alejandro%20Android.png?alt=media&token=498c6f9c-6124-49e6-b91d-3c5a77f2daf3" width="100%" height="200"/></a>
-<p>________________________________________________________________________________________________________________________________________________________</p>
+<p>__________________________________________________________________________________________________________________________________________________</p>
 
 #### Sobre mi:
 
