@@ -30,6 +30,14 @@
 ### Login MVP
 <a href="https://github.com/alejandro342/LoginMVP" target="_blank"> <img src="https://firebasestorage.googleapis.com/v0/b/dulceria-bf781.appspot.com/o/LoginMVP.jpg?alt=media&token=2214df61-5727-4ebb-88cd-d27479893a0c" width="250" height="300"/></a>
 
+<p>________________________________________________________________________________________________________________________________________________</p>
+
+#### ¿Hablamos?☕️
+
+<p align="left">
+
+<a href="mailto:alex47ambro12@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Alejandro Ambrosio" height="30" width="40" />alex47ambro12@gmail.com</a>
+</p>
 
 <!--
 **alejandro342/alejandro342** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
