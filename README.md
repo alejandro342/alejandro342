@@ -7,6 +7,8 @@
 
 <a href="https://www.linkedin.com/in/ing-alejandro342" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Alejandro Ambrosio" height="30" width="40" />linkedin</a>
 
+<a href="https://alejandro342.github.io/" target="blank">Mi web</a>
+
 <p>________________________________________________________________________________________________________________________________________________</p>
 
 #### Tengo conocimientos sobre:
